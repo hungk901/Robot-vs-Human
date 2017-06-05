@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 5f342a81447944309a15e1ff7d3aea58
+timeCreated: 1481898151
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: back
+    100002: BigBody
+    100004: Body
+    100006: BottomPart
+    100008: Butt
+    100010: Elbow01
+    100012: Elbow01 1
+    100014: Head
+    100016: LeftHand
+    100018: LowerArm
+    100020: LowerArm 1
+    100022: LowerCusion
+    100024: MiddlePart
+    100026: Monitor
+    100028: Palm
+    100030: Palm 1
+    100032: Power01
+    100034: Power02
+    100036: Power03
+    100038: PowerSet
+    100040: RightHand
+    100042: Robot
+    100044: //RootNode
+    100046: Shoulder01
+    100048: Shoulder01 1
+    100050: TopPart
+    100052: UpperArm
+    100054: UpperArm 1
+    100056: UpperCusion
+    100058: Wrist
+    100060: Wrist 1
+    400000: back
+    400002: BigBody
+    400004: Body
+    400006: BottomPart
+    400008: Butt
+    400010: Elbow01
+    400012: Elbow01 1
+    400014: Head
+    400016: LeftHand
+    400018: LowerArm
+    400020: LowerArm 1
+    400022: LowerCusion
+    400024: MiddlePart
+    400026: Monitor
+    400028: Palm
+    400030: Palm 1
+    400032: Power01
+    400034: Power02
+    400036: Power03
+    400038: PowerSet
+    400040: RightHand
+    400042: Robot
+    400044: //RootNode
+    400046: Shoulder01
+    400048: Shoulder01 1
+    400050: TopPart
+    400052: UpperArm
+    400054: UpperArm 1
+    400056: UpperCusion
+    400058: Wrist
+    400060: Wrist 1
+    2300000: Body
+    2300002: Butt
+    2300004: Elbow01
+    2300006: Elbow01 1
+    2300008: Head
+    2300010: LowerArm
+    2300012: LowerArm 1
+    2300014: LowerCusion
+    2300016: Monitor
+    2300018: Palm
+    2300020: Palm 1
+    2300022: Power01
+    2300024: Power02
+    2300026: Power03
+    2300028: Shoulder01
+    2300030: Shoulder01 1
+    2300032: UpperArm
+    2300034: UpperArm 1
+    2300036: UpperCusion
+    2300038: Wrist
+    2300040: Wrist 1
+    3300000: Body
+    3300002: Butt
+    3300004: Elbow01
+    3300006: Elbow01 1
+    3300008: Head
+    3300010: LowerArm
+    3300012: LowerArm 1
+    3300014: LowerCusion
+    3300016: Monitor
+    3300018: Palm
+    3300020: Palm 1
+    3300022: Power01
+    3300024: Power02
+    3300026: Power03
+    3300028: Shoulder01
+    3300030: Shoulder01 1
+    3300032: UpperArm
+    3300034: UpperArm 1
+    3300036: UpperCusion
+    3300038: Wrist
+    3300040: Wrist 1
+    4300000: Monitor
+    4300002: Head
+    4300004: Body
+    4300006: UpperCusion
+    4300008: LowerCusion
+    4300010: Shoulder01
+    4300012: LowerArm
+    4300014: UpperArm
+    4300016: Elbow01
+    4300018: Wrist
+    4300020: Palm
+    4300022: Shoulder01
+    4300024: LowerArm
+    4300026: UpperArm
+    4300028: Elbow01
+    4300030: Wrist
+    4300032: Palm
+    4300034: Power03
+    4300036: Power02
+    4300038: Power01
+    4300040: Butt
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
